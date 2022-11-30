@@ -9,11 +9,6 @@
 
     <body>
 
-        <?php 
-            $nome ="riccardo";
-            $insulto ="cazzo";
-        ?>
-
         <form action="./pagina-di-atterraggio.php" method="GET">
             <input type="text" name="nome" placeholder="nome">
             <br>
